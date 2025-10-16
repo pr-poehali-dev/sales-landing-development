@@ -19,7 +19,7 @@ const Index = () => {
   return (
     <div className="min-h-screen">
       <header className="sticky top-0 z-50 bg-white/95 backdrop-blur border-b">
-        <nav className="container mx-auto px-4 py-4 flex items-center justify-between">
+        <nav className="container mx-auto px-4 py-4 flex items-center justify-between rounded-[0.25rem]">
           <div className="text-2xl font-bold bg-gradient-to-r from-primary to-accent bg-clip-text text-transparent">
             Тренер по продажам
           </div>
